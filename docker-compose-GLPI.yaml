@@ -72,7 +72,7 @@ volumes:
 networks: 
   glpi-frontend: 
   glpi-backend:
-Manual install
+
 
 
 
