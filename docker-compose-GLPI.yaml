@@ -32,7 +32,6 @@ services:
           PLUGINS: "all"
         depends_on: 
           - mariadb-glpi
-          - php-fpm
         ports: 
           - 30080:80
         networks: 
